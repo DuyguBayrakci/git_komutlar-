@@ -1,0 +1,12 @@
+Git reposu github üzerinden açılmışşsa.
+
+gitbash projenin olacagı klasörde açılır. aşağıdaki komut yazılır.
+git clone http://github.com/KullanıcıAdı/projenin
+
+proje dosyaları local bilgisayara yüklenmiş olur.
+
+sonrasında vs code üzerinden yapılması gereken değişikler yapilir örn: komutlar sayfası oluşturuldu. Source Control sekmesi
+üzerinden changes kismi değişiklikler kısmıdır.
+
+
+
